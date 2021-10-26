@@ -1,0 +1,14 @@
+.nav-bar{
+  display: flex;
+  color: rgb(145, 142, 142);
+}
+
+.nav-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-item-active{
+  color: rgb(36, 167, 36);
+}
